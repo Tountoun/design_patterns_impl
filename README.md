@@ -6,9 +6,12 @@ They are implemented in java with various example.
 
 ## Implemented patterns
 ### Structural
-- Strutural: 
-decorator, facade, filter
-- Behavioral
-observer, strategy
-- Creational
-factory, prototype
+- decorator
+- facade
+- filter
+### Behavioral
+- observer
+- strategy
+### Creational
+- factory
+- prototype
