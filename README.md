@@ -1,4 +1,4 @@
-# Design patterns
+# Software Design patterns
 
 ## Description
 This project's aim is to walk through the sofware design patterns.
